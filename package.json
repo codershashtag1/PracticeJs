@@ -1,0 +1,19 @@
+{
+  "name": "practicejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "StarPattern1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codershashtag1/PracticeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codershashtag1/PracticeJs/issues"
+  },
+  "homepage": "https://github.com/codershashtag1/PracticeJs#readme"
+}
