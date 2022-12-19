@@ -9,7 +9,7 @@ for(i = 0; i <= 5; i++) {
 console.log(string);
 string = "";
 
-console.log("\n");
+// console.log("\n");
 
 for(i = 1; i <= 6; i++) {
   for(j = 1; j <= i; j++) {

@@ -1,9 +1,9 @@
 var i, j;
 var string = "";
-for(i = 0; i <= 5; i++) {
-  for(j = 5; j <= i; j--) {
+for(i = 0; i <= 4; i++) {
+  for(j = 0; j <= i; j++) {
     string += "*";
   }
-  string += "\n";
+  string += "\n"
 }
 console.log(string);
